@@ -30,6 +30,12 @@ g++ punkty.cpp -o kpkt.exe
 ./kpkt.exe
 ```
 
+## Dodatkowe informacje
+
+W repozytorium znajduje się również plik `pdf_gen.cpp`, jest on **programem testowym**, który generuje plik PDF z danymi podanymi podczas korzystania z programu.
+
+**Po co istnieje `pdf_gen.cpp`?** Program może zostanie zaimplementowany w **KPKT** po to aby generować raport z punktacji.
+
 ## Licencja
 
 [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.pl)
